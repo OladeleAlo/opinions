@@ -1,3 +1,8 @@
+opinionstodolist.netlify.app
+
+The initial list of opinions is empty. Kindly add your opinions and click the plus button
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
