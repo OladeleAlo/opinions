@@ -1,5 +1,7 @@
 opinionstodolist.netlify.app
 
+https://opinionstodolist.netlify.app/
+
 The initial list of opinions is empty. Kindly add your opinions and click the plus button
 
 
